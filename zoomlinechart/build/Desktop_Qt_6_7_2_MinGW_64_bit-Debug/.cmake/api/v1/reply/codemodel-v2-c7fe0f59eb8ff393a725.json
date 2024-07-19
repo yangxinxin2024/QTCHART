@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-486ba3d910431402a9bb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "zoomlinechart",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "zoomlinechart::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zoomlinechart-Debug-593a0c43b7b5d57b49d0.json",
+					"name" : "zoomlinechart",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zoomlinechart_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zoomlinechart_autogen-Debug-47fe9a4d53d1d0744f09.json",
+					"name" : "zoomlinechart_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zoomlinechart_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zoomlinechart_autogen_timestamp_deps-Debug-68f1ae60e99cdaa9740f.json",
+					"name" : "zoomlinechart_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/Examples/Qt-6.7.2/charts/zoomlinechart/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Qt/Examples/Qt-6.7.2/charts/zoomlinechart"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
